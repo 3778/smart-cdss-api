@@ -1,0 +1,20 @@
+{
+    "idade" : "adulto",
+    "sexo": "masculino",
+    "atendimento":  "hospital",
+    "subdivisao_sitio": "otite",
+    "grupo": null,
+    "familia": null,
+    "microrganismo": null,
+    "sepse": "baixo",
+    "restricoes": {
+	    "diabetico": false,
+	    "imunossupressao": false,
+	    "gestante": false,
+	    "nao_cf": false,
+	    "nao_pen": false,
+	    "neoplasia": false,
+	    "via_de_administracao": null,
+	    "funcao_renal": "normal"
+    }
+}
